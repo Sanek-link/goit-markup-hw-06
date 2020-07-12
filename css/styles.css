@@ -336,7 +336,6 @@ button {
 }
 
 .form-title {
-  display: block;
   margin-bottom: 30px;
   font-weight: 700;
   font-size: 20px;
@@ -507,6 +506,7 @@ button {
 
   cursor: pointer;
 }
+
 /* Наши преимущества */
 .advantages-list {
   display: flex;
